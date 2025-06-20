@@ -1,4 +1,4 @@
-# Inventory Manager in Python
+# Gestor de Inventario
 
 Este proyecto es un gestor de inventario simple desarrollado en Python. Ideal para negocios pequeños o como práctica de programación, permite agregar, consultar, actualizar, eliminar productos y calcular el valor total del inventario. Los productos se identifican mediante un ID único que se reasigna automáticamente si un producto es eliminado.
 
